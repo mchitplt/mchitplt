@@ -1,0 +1,2 @@
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB774C&width=435&lines=Hi++%F0%9F%91%8B%2C+I'm+M%C3%BCcahit+Yi%C4%9Fit+Polat" alt="Typing SVG" /></a></h1>
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/mupolat?1337Badge=off&UM6P=off" alt="mupolat's 42 stats" /></a>
