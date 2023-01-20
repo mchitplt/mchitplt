@@ -14,4 +14,8 @@ hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Muca
  <a href="https://www.instagram.com/mucahityigitpolat/">
  <img align="left" alt="Mucahit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
+ <a href="https://www.twitter.com/mucahitmusic">
+  <img align="left" alt="Mucahit's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"/>
+</a>
+ <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=mchitplt.mchitplt"/>
 </br>
