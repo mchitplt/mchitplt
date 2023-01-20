@@ -5,7 +5,7 @@ hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Muca
 </br>
 - 💬 ask me about anything, i am happy to help;
 </br>
-- 🤖 technologies that i used/using;
+</br>
 <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/mupolat?1337Badge=off&UM6P=off" alt="mupolat's 42 stats" /></a>
  </br>
   <a href="mailto:mkara480465@gmail.com">
