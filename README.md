@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB774C&width=435&lines=Hi++%F0%9F%91%8B%2C+I'm+M%C3%BCcahit+Yi%C4%9Fit+Polat" alt="Typing SVG" /></a></h1>
-hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
+Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
 </br></br>
 - 💼 any freelance work? do reach :)
 </br>
