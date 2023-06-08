@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB774C&width=435&lines=Hi++%F0%9F%91%8B%2C+I'm+M%C3%BCcahit+Yi%C4%9Fit+Polat" alt="Typing SVG" /></a></h1>
-<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/mupolat?1337Badge=off&UM6P=off" alt="mupolat's 42 stats" /></a>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/climf6as3001108lblj4z776w/stats?cursusId=21&coalitionId=196" alt="mupolat's 42 stats" /></a></a>
 
 Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
 </br></br>
@@ -50,7 +50,4 @@ Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Muca
   <a href="https://github.com/karakuscem/42-get-next-line"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
   <a href="https://github.com/karakuscem/42-printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png"></a>
   <a href="https://github.com/karakuscem/born2beroot"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png"></a>
-  <a href="https://github.com/karakuscem/42-minitalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
-  <a href="https://github.com/karakuscem/42-so_long"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
-  <a href="https://github.com/karakuscem/42-push_swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
 </p>
