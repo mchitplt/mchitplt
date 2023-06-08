@@ -3,7 +3,7 @@
 
 Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
 </br></br>
-<img align="right" src="https://media.tenor.com/W9_8dfFmyr0AAAAd/pixel-game.gif" width="280" height="230"  />
+<img align="right" src="https://media.tenor.com/d8FRvQ5wn6IAAAAC/columbia-record-playing.gif" width="280" height="230"  />
 💼 any freelance work? do reach :)
 </br>
 💬 ask me about anything, i am happy to help;
@@ -34,7 +34,7 @@ Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Muca
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<img align="right" src="https://media.tenor.com/Ev_Zlnn-niMAAAAM/horse-developer.gif" width="280" height="230"  /> 
+<img align="right" src="https://media.tenor.com/tW7W0qaUehQAAAAC/peach-cat-guitar.gif" width="280" height="230"  /> 
 <a href="https://www.linux.org/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 </br></br>
 </br>
