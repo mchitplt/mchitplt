@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB774C&width=435&lines=Hi++%F0%9F%91%8B%2C+I'm+M%C3%BCcahit+Yi%C4%9Fit+Polat" alt="Typing SVG" /></a></h1>
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"></a></a>
 
-Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
+Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Mucahit Yigit Polat </a>, a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming.
 </br></br>
 <img align="right" src="https://media.tenor.com/d8FRvQ5wn6IAAAAC/columbia-record-playing.gif" width="280" height="230"  />
 💼 any freelance work? do reach :)
@@ -44,5 +44,4 @@ Hi, i'm <a href="https://www.linkedin.com/in/m%C3%BCcahit-polat-126366249/">Muca
 <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 </br></br></br>
-<h3 align="center">Done</h3>
 
